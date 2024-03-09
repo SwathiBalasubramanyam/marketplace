@@ -3,4 +3,6 @@
 3. Activate the env, using source env/bin/activate
 4. Install django, using pip install django
 5. create a django project, using django-admin startproject marketplace
+6. You can now bring up your app, using python3 manage.py runserver
+7. create an app using command, django-admin startapp core
 
